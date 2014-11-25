@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Code for working in AsiaInfo.
+Start from 20141125.
